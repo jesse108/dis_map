@@ -1,0 +1,28 @@
+<include file="comment/header" />
+
+<table>
+  <tr>
+    <td><input type="text" id="keyword" value=""></td>  
+    <td><input type="button" value="搜疾病" class="serach"></td>
+     <td><input type="button" value="搜城市" class="serach"></td>
+    <td></td>
+  </tr>
+</table>
+
+<include file="comment/footer"/>
+<script type="text/javascript">
+$(".serach").click(function(){
+	var keyword = $("#keyword").val();
+	if(!keyword){
+		return false;
+	}
+	if($(this).val=='搜疾病'){
+		location.href="http://diseasemap.com/Home/diseaseMap/searchDisease?keyword="+keyword;
+	}else{
+		location.href="http://diseasemap.com/Home/city/searchcity?keyword="+keyword;
+
+	}
+	
+});
+</script>
+ 

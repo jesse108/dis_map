@@ -1,0 +1,1172 @@
+[ 2014-05-02T13:12:52+08:00 ] 127.0.0.1 /Home/diseaseMap/searchDisease
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+NOTIC: [2048] Declaration of Home\Model\DiseaseListModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\www\diseaseMap\Application\Home\Model\DiseaseListModel.class.php 第 7 行.
+NOTIC: [2048] Non-static method Home\Model\DiseaseListModel::get() should not be called statically, assuming $this from incompatible context E:\www\diseaseMap\Application\Home\Controller\DiseaseMapController.class.php 第 59 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\www\diseaseMap\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003001s ]
+
+[ 2014-05-02T14:08:53+08:00 ] 127.0.0.1 /Home/diseaseMap/adddisease
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001001s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002001s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-05-02T14:40:59+08:00 ] 127.0.0.1 /Home/diseaseMap/adddisease
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-05-02T14:43:30+08:00 ] 127.0.0.1 /Home/diseaseMap/adddisease
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003001s ]
+
+[ 2014-05-02T14:43:55+08:00 ] 127.0.0.1 /Home/diseaseMap/adddisease
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-05-02T14:44:11+08:00 ] 127.0.0.1 /Home/diseaseMap/adddisease
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002001s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-05-02T14:44:58+08:00 ] 127.0.0.1 /Home/diseaseMap/adddisease
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-05-02T14:47:23+08:00 ] 127.0.0.1 /Home/diseaseMap/addInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2048] Declaration of Home\Model\DiseaseListModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\www\diseaseMap\Application\Home\Model\DiseaseListModel.class.php 第 7 行.
+NOTIC: [2048] Non-static method Home\Model\DiseaseListModel::add() should not be called statically, assuming $this from incompatible context E:\www\diseaseMap\Application\Home\Controller\DiseaseMapController.class.php 第 39 行.
+NOTIC: [8192] mysql_escape_string(): This function is deprecated; use mysql_real_escape_string() instead. E:\www\diseaseMap\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 330 行.
+NOTIC: [8192] mysql_escape_string(): This function is deprecated; use mysql_real_escape_string() instead. E:\www\diseaseMap\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 330 行.
+NOTIC: [8192] mysql_escape_string(): This function is deprecated; use mysql_real_escape_string() instead. E:\www\diseaseMap\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 330 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\www\diseaseMap\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+
+[ 2014-05-02T14:48:31+08:00 ] 127.0.0.1 /Home/diseaseMap/addInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2048] Declaration of Home\Model\DiseaseListModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\www\diseaseMap\Application\Home\Model\DiseaseListModel.class.php 第 7 行.
+NOTIC: [2048] Non-static method Home\Model\DiseaseListModel::add() should not be called statically, assuming $this from incompatible context E:\www\diseaseMap\Application\Home\Controller\DiseaseMapController.class.php 第 39 行.
+NOTIC: [8192] mysql_escape_string(): This function is deprecated; use mysql_real_escape_string() instead. E:\www\diseaseMap\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 330 行.
+NOTIC: [8192] mysql_escape_string(): This function is deprecated; use mysql_real_escape_string() instead. E:\www\diseaseMap\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 330 行.
+NOTIC: [8192] mysql_escape_string(): This function is deprecated; use mysql_real_escape_string() instead. E:\www\diseaseMap\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 330 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\www\diseaseMap\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+
+[ 2014-05-02T14:51:17+08:00 ] 127.0.0.1 /Home/diseaseMap/addInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2048] Declaration of Home\Model\DiseaseListModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\www\diseaseMap\Application\Home\Model\DiseaseListModel.class.php 第 7 行.
+NOTIC: [2048] Non-static method Home\Model\DiseaseListModel::add() should not be called statically, assuming $this from incompatible context E:\www\diseaseMap\Application\Home\Controller\DiseaseMapController.class.php 第 39 行.
+
+[ 2014-05-02T14:53:02+08:00 ] 127.0.0.1 /Home/diseaseMap/addInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2048] Declaration of Home\Model\DiseaseListModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\www\diseaseMap\Application\Home\Model\DiseaseListModel.class.php 第 7 行.
+NOTIC: [2048] Non-static method Home\Model\DiseaseListModel::add() should not be called statically, assuming $this from incompatible context E:\www\diseaseMap\Application\Home\Controller\DiseaseMapController.class.php 第 39 行.
+
+[ 2014-05-02T14:53:30+08:00 ] 127.0.0.1 /Home/diseaseMap/adddisease
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-05-02T14:53:41+08:00 ] 127.0.0.1 /Home/diseaseMap/addInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2048] Declaration of Home\Model\DiseaseListModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\www\diseaseMap\Application\Home\Model\DiseaseListModel.class.php 第 7 行.
+NOTIC: [2048] Non-static method Home\Model\DiseaseListModel::add() should not be called statically, assuming $this from incompatible context E:\www\diseaseMap\Application\Home\Controller\DiseaseMapController.class.php 第 39 行.
+
+[ 2014-05-02T14:54:59+08:00 ] 127.0.0.1 /Home/diseaseMap/addInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2048] Declaration of Home\Model\DiseaseListModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\www\diseaseMap\Application\Home\Model\DiseaseListModel.class.php 第 7 行.
+NOTIC: [2048] Non-static method Home\Model\DiseaseListModel::add() should not be called statically, assuming $this from incompatible context E:\www\diseaseMap\Application\Home\Controller\DiseaseMapController.class.php 第 39 行.
+NOTIC: [8] Undefined variable: fields E:\www\diseaseMap\ThinkPHP\Library\Think\Model.class.php 第 901 行.
+
+[ 2014-05-02T14:56:00+08:00 ] 127.0.0.1 /Home/diseaseMap/addInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2048] Declaration of Home\Model\DiseaseListModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\www\diseaseMap\Application\Home\Model\DiseaseListModel.class.php 第 7 行.
+NOTIC: [2048] Non-static method Home\Model\DiseaseListModel::add() should not be called statically, assuming $this from incompatible context E:\www\diseaseMap\Application\Home\Controller\DiseaseMapController.class.php 第 39 行.
+NOTIC: [8] Undefined variable: fields E:\www\diseaseMap\ThinkPHP\Library\Think\Model.class.php 第 879 行.
+
+[ 2014-05-02T14:57:09+08:00 ] 127.0.0.1 /Home/diseaseMap/addInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+NOTIC: [2048] Declaration of Home\Model\DiseaseListModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\www\diseaseMap\Application\Home\Model\DiseaseListModel.class.php 第 7 行.
+NOTIC: [2048] Non-static method Home\Model\DiseaseListModel::add() should not be called statically, assuming $this from incompatible context E:\www\diseaseMap\Application\Home\Controller\DiseaseMapController.class.php 第 39 行.
+
+[ 2014-05-02T14:57:45+08:00 ] 127.0.0.1 /Home/diseaseMap/addInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2048] Declaration of Home\Model\DiseaseListModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\www\diseaseMap\Application\Home\Model\DiseaseListModel.class.php 第 7 行.
+NOTIC: [2048] Non-static method Home\Model\DiseaseListModel::add() should not be called statically, assuming $this from incompatible context E:\www\diseaseMap\Application\Home\Controller\DiseaseMapController.class.php 第 39 行.
+
+[ 2014-05-02T14:58:19+08:00 ] 127.0.0.1 /Home/diseaseMap/addInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2048] Declaration of Home\Model\DiseaseListModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\www\diseaseMap\Application\Home\Model\DiseaseListModel.class.php 第 7 行.
+NOTIC: [2048] Non-static method Home\Model\DiseaseListModel::add() should not be called statically, assuming $this from incompatible context E:\www\diseaseMap\Application\Home\Controller\DiseaseMapController.class.php 第 39 行.
+
+[ 2014-05-02T14:58:38+08:00 ] 127.0.0.1 /Home/diseaseMap/addInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2048] Declaration of Home\Model\DiseaseListModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\www\diseaseMap\Application\Home\Model\DiseaseListModel.class.php 第 7 行.
+NOTIC: [2048] Non-static method Home\Model\DiseaseListModel::add() should not be called statically, assuming $this from incompatible context E:\www\diseaseMap\Application\Home\Controller\DiseaseMapController.class.php 第 39 行.
+
+[ 2014-05-02T14:58:51+08:00 ] 127.0.0.1 /Home/diseaseMap/addInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+NOTIC: [2048] Declaration of Home\Model\DiseaseListModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\www\diseaseMap\Application\Home\Model\DiseaseListModel.class.php 第 7 行.
+NOTIC: [2048] Non-static method Home\Model\DiseaseListModel::add() should not be called statically, assuming $this from incompatible context E:\www\diseaseMap\Application\Home\Controller\DiseaseMapController.class.php 第 39 行.
+
+[ 2014-05-02T14:59:06+08:00 ] 127.0.0.1 /Home/diseaseMap/addInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2048] Declaration of Home\Model\DiseaseListModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\www\diseaseMap\Application\Home\Model\DiseaseListModel.class.php 第 7 行.
+NOTIC: [2048] Non-static method Home\Model\DiseaseListModel::add() should not be called statically, assuming $this from incompatible context E:\www\diseaseMap\Application\Home\Controller\DiseaseMapController.class.php 第 39 行.
+
+[ 2014-05-02T14:59:19+08:00 ] 127.0.0.1 /Home/diseaseMap/addInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2048] Declaration of Home\Model\DiseaseListModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\www\diseaseMap\Application\Home\Model\DiseaseListModel.class.php 第 7 行.
+NOTIC: [2048] Non-static method Home\Model\DiseaseListModel::add() should not be called statically, assuming $this from incompatible context E:\www\diseaseMap\Application\Home\Controller\DiseaseMapController.class.php 第 39 行.
+
+[ 2014-05-02T14:59:53+08:00 ] 127.0.0.1 /Home/diseaseMap/addInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2048] Declaration of Home\Model\DiseaseListModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\www\diseaseMap\Application\Home\Model\DiseaseListModel.class.php 第 7 行.
+NOTIC: [2048] Non-static method Home\Model\DiseaseListModel::add() should not be called statically, assuming $this from incompatible context E:\www\diseaseMap\Application\Home\Controller\DiseaseMapController.class.php 第 39 行.
+
+[ 2014-05-02T15:00:16+08:00 ] 127.0.0.1 /Home/diseaseMap/addInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2048] Declaration of Home\Model\DiseaseListModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\www\diseaseMap\Application\Home\Model\DiseaseListModel.class.php 第 7 行.
+NOTIC: [2048] Non-static method Home\Model\DiseaseListModel::add() should not be called statically, assuming $this from incompatible context E:\www\diseaseMap\Application\Home\Controller\DiseaseMapController.class.php 第 39 行.
+
+[ 2014-05-02T15:03:57+08:00 ] 127.0.0.1 /Home/diseaseMap/addInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2048] Declaration of Home\Model\DiseaseListModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\www\diseaseMap\Application\Home\Model\DiseaseListModel.class.php 第 7 行.
+NOTIC: [2048] Non-static method Home\Model\DiseaseListModel::add() should not be called statically, assuming $this from incompatible context E:\www\diseaseMap\Application\Home\Controller\DiseaseMapController.class.php 第 39 行.
+NOTIC: [8192] mysql_escape_string(): This function is deprecated; use mysql_real_escape_string() instead. E:\www\diseaseMap\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 330 行.
+NOTIC: [8192] mysql_escape_string(): This function is deprecated; use mysql_real_escape_string() instead. E:\www\diseaseMap\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 330 行.
+NOTIC: [8192] mysql_escape_string(): This function is deprecated; use mysql_real_escape_string() instead. E:\www\diseaseMap\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 330 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\www\diseaseMap\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+
+[ 2014-05-02T15:09:44+08:00 ] 127.0.0.1 /Home/diseaseMap/adddisease
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-05-02T15:10:13+08:00 ] 127.0.0.1 /Home/diseaseMap/addInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2048] Declaration of Home\Model\DiseaseListModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\www\diseaseMap\Application\Home\Model\DiseaseListModel.class.php 第 7 行.
+NOTIC: [2048] Non-static method Home\Model\DiseaseListModel::add() should not be called statically, assuming $this from incompatible context E:\www\diseaseMap\Application\Home\Controller\DiseaseMapController.class.php 第 39 行.
+NOTIC: [8192] mysql_escape_string(): This function is deprecated; use mysql_real_escape_string() instead. E:\www\diseaseMap\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 330 行.
+NOTIC: [8192] mysql_escape_string(): This function is deprecated; use mysql_real_escape_string() instead. E:\www\diseaseMap\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 330 行.
+NOTIC: [8192] mysql_escape_string(): This function is deprecated; use mysql_real_escape_string() instead. E:\www\diseaseMap\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 330 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\www\diseaseMap\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+
+[ 2014-05-02T15:14:20+08:00 ] 127.0.0.1 /Home/diseaseMap/addInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+NOTIC: [2048] Declaration of Home\Model\DiseaseListModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\www\diseaseMap\Application\Home\Model\DiseaseListModel.class.php 第 7 行.
+NOTIC: [2048] Non-static method Home\Model\DiseaseListModel::add() should not be called statically, assuming $this from incompatible context E:\www\diseaseMap\Application\Home\Controller\DiseaseMapController.class.php 第 39 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\www\diseaseMap\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+
+[ 2014-05-02T15:15:15+08:00 ] 127.0.0.1 /Home/diseaseMap/searchDisease
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2048] Declaration of Home\Model\DiseaseListModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\www\diseaseMap\Application\Home\Model\DiseaseListModel.class.php 第 7 行.
+NOTIC: [2048] Non-static method Home\Model\DiseaseListModel::get() should not be called statically, assuming $this from incompatible context E:\www\diseaseMap\Application\Home\Controller\DiseaseMapController.class.php 第 59 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\www\diseaseMap\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-05-02T15:37:30+08:00 ] 127.0.0.1 /Home/diseaseMap/searchDisease
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2048] Declaration of Home\Model\DiseaseListModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\www\diseaseMap\Application\Home\Model\DiseaseListModel.class.php 第 7 行.
+NOTIC: [2048] Non-static method Home\Model\DiseaseListModel::get() should not be called statically, assuming $this from incompatible context E:\www\diseaseMap\Application\Home\Controller\DiseaseMapController.class.php 第 57 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\www\diseaseMap\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-05-02T15:38:06+08:00 ] 127.0.0.1 /Home/diseaseMap/searchDisease
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2048] Declaration of Home\Model\DiseaseListModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\www\diseaseMap\Application\Home\Model\DiseaseListModel.class.php 第 7 行.
+NOTIC: [2048] Non-static method Home\Model\DiseaseListModel::get() should not be called statically, assuming $this from incompatible context E:\www\diseaseMap\Application\Home\Controller\DiseaseMapController.class.php 第 57 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\www\diseaseMap\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-05-02T15:38:46+08:00 ] 127.0.0.1 /Home/diseaseMap/searchDisease
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2048] Declaration of Home\Model\DiseaseListModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\www\diseaseMap\Application\Home\Model\DiseaseListModel.class.php 第 7 行.
+NOTIC: [2048] Non-static method Home\Model\DiseaseListModel::get() should not be called statically, assuming $this from incompatible context E:\www\diseaseMap\Application\Home\Controller\DiseaseMapController.class.php 第 57 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\www\diseaseMap\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-05-02T15:39:08+08:00 ] 127.0.0.1 /Home/diseaseMap/searchDisease
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2048] Declaration of Home\Model\DiseaseListModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\www\diseaseMap\Application\Home\Model\DiseaseListModel.class.php 第 7 行.
+NOTIC: [2048] Non-static method Home\Model\DiseaseListModel::get() should not be called statically, assuming $this from incompatible context E:\www\diseaseMap\Application\Home\Controller\DiseaseMapController.class.php 第 57 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\www\diseaseMap\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-05-02T15:39:20+08:00 ] 127.0.0.1 /Home/diseaseMap/searchDisease?cname=dname
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+NOTIC: [2048] Declaration of Home\Model\DiseaseListModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\www\diseaseMap\Application\Home\Model\DiseaseListModel.class.php 第 7 行.
+NOTIC: [2048] Non-static method Home\Model\DiseaseListModel::get() should not be called statically, assuming $this from incompatible context E:\www\diseaseMap\Application\Home\Controller\DiseaseMapController.class.php 第 57 行.
+NOTIC: [8192] mysql_escape_string(): This function is deprecated; use mysql_real_escape_string() instead. E:\www\diseaseMap\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 330 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\www\diseaseMap\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\www\diseaseMap\Application\Home\Model\DiseaseListModel.class.php 第 26 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.033002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.035002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003001s ]
+
+[ 2014-05-02T15:41:00+08:00 ] 127.0.0.1 /Home/diseaseMap/searchDisease
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+NOTIC: [2048] Declaration of Home\Model\DiseaseListModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\www\diseaseMap\Application\Home\Model\DiseaseListModel.class.php 第 7 行.
+NOTIC: [2048] Non-static method Home\Model\DiseaseListModel::get() should not be called statically, assuming $this from incompatible context E:\www\diseaseMap\Application\Home\Controller\DiseaseMapController.class.php 第 57 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\www\diseaseMap\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-05-02T15:41:12+08:00 ] 127.0.0.1 /Home/diseaseMap/searchDisease?cname=dname
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2048] Declaration of Home\Model\DiseaseListModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\www\diseaseMap\Application\Home\Model\DiseaseListModel.class.php 第 7 行.
+NOTIC: [2048] Non-static method Home\Model\DiseaseListModel::get() should not be called statically, assuming $this from incompatible context E:\www\diseaseMap\Application\Home\Controller\DiseaseMapController.class.php 第 57 行.
+NOTIC: [8192] mysql_escape_string(): This function is deprecated; use mysql_real_escape_string() instead. E:\www\diseaseMap\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 330 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\www\diseaseMap\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\www\diseaseMap\Application\Home\Model\DiseaseListModel.class.php 第 26 行.
+
+[ 2014-05-02T15:42:06+08:00 ] 127.0.0.1 /Home/diseaseMap/searchDisease?cname=dname
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2048] Declaration of Home\Model\DiseaseListModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\www\diseaseMap\Application\Home\Model\DiseaseListModel.class.php 第 7 行.
+NOTIC: [2048] Non-static method Home\Model\DiseaseListModel::get() should not be called statically, assuming $this from incompatible context E:\www\diseaseMap\Application\Home\Controller\DiseaseMapController.class.php 第 57 行.
+NOTIC: [8192] mysql_escape_string(): This function is deprecated; use mysql_real_escape_string() instead. E:\www\diseaseMap\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 330 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\www\diseaseMap\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\www\diseaseMap\Application\Home\Model\DiseaseListModel.class.php 第 26 行.
+
+[ 2014-05-02T15:42:07+08:00 ] 127.0.0.1 /Home/diseaseMap/searchDisease
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2048] Declaration of Home\Model\DiseaseListModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\www\diseaseMap\Application\Home\Model\DiseaseListModel.class.php 第 7 行.
+NOTIC: [2048] Non-static method Home\Model\DiseaseListModel::get() should not be called statically, assuming $this from incompatible context E:\www\diseaseMap\Application\Home\Controller\DiseaseMapController.class.php 第 57 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\www\diseaseMap\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-05-02T15:42:11+08:00 ] 127.0.0.1 /Home/diseaseMap/searchDisease?cname=&dname
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+NOTIC: [2048] Declaration of Home\Model\DiseaseListModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\www\diseaseMap\Application\Home\Model\DiseaseListModel.class.php 第 7 行.
+NOTIC: [2048] Non-static method Home\Model\DiseaseListModel::get() should not be called statically, assuming $this from incompatible context E:\www\diseaseMap\Application\Home\Controller\DiseaseMapController.class.php 第 57 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\www\diseaseMap\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-05-02T15:46:19+08:00 ] 127.0.0.1 /Home/diseaseMap/searchDisease
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2048] Declaration of Home\Model\DiseaseListModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\www\diseaseMap\Application\Home\Model\DiseaseListModel.class.php 第 7 行.
+NOTIC: [2048] Non-static method Home\Model\DiseaseListModel::get() should not be called statically, assuming $this from incompatible context E:\www\diseaseMap\Application\Home\Controller\DiseaseMapController.class.php 第 57 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\www\diseaseMap\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002001s ]
+
+[ 2014-05-02T15:46:31+08:00 ] 127.0.0.1 /Home/diseaseMap/searchDisease?cname=&dname%E5%A4%A9%E8%8A%B1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+NOTIC: [2048] Declaration of Home\Model\DiseaseListModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\www\diseaseMap\Application\Home\Model\DiseaseListModel.class.php 第 7 行.
+NOTIC: [2048] Non-static method Home\Model\DiseaseListModel::get() should not be called statically, assuming $this from incompatible context E:\www\diseaseMap\Application\Home\Controller\DiseaseMapController.class.php 第 57 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\www\diseaseMap\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002001s ]
+
+[ 2014-05-02T15:47:25+08:00 ] 127.0.0.1 /Home/diseaseMap/searchDisease?cname=&dname%E5%A4%A9%E8%8A%B1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2048] Declaration of Home\Model\DiseaseListModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\www\diseaseMap\Application\Home\Model\DiseaseListModel.class.php 第 7 行.
+NOTIC: [2048] Non-static method Home\Model\DiseaseListModel::get() should not be called statically, assuming $this from incompatible context E:\www\diseaseMap\Application\Home\Controller\DiseaseMapController.class.php 第 57 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\www\diseaseMap\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001001s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001001s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-05-02T15:47:28+08:00 ] 127.0.0.1 /Home/diseaseMap/searchDisease
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2048] Declaration of Home\Model\DiseaseListModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\www\diseaseMap\Application\Home\Model\DiseaseListModel.class.php 第 7 行.
+NOTIC: [2048] Non-static method Home\Model\DiseaseListModel::get() should not be called statically, assuming $this from incompatible context E:\www\diseaseMap\Application\Home\Controller\DiseaseMapController.class.php 第 57 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\www\diseaseMap\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.003000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.024001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-05-02T15:47:32+08:00 ] 127.0.0.1 /Home/diseaseMap/searchDisease?cname=&dname=%E5%A4%A9%E8%8A%B1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2048] Declaration of Home\Model\DiseaseListModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\www\diseaseMap\Application\Home\Model\DiseaseListModel.class.php 第 7 行.
+NOTIC: [2048] Non-static method Home\Model\DiseaseListModel::get() should not be called statically, assuming $this from incompatible context E:\www\diseaseMap\Application\Home\Controller\DiseaseMapController.class.php 第 57 行.
+NOTIC: [8192] mysql_escape_string(): This function is deprecated; use mysql_real_escape_string() instead. E:\www\diseaseMap\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 330 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\www\diseaseMap\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+
+[ 2014-05-02T15:55:07+08:00 ] 127.0.0.1 /Home/diseaseMap/searchDisease
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+NOTIC: [2048] Declaration of Home\Model\DiseaseListModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\www\diseaseMap\Application\Home\Model\DiseaseListModel.class.php 第 7 行.
+NOTIC: [2048] Non-static method Home\Model\DiseaseListModel::get() should not be called statically, assuming $this from incompatible context E:\www\diseaseMap\Application\Home\Controller\DiseaseMapController.class.php 第 57 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\www\diseaseMap\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003001s ]
+
+[ 2014-05-02T15:55:45+08:00 ] 127.0.0.1 /Home/diseaseMap/searchDisease
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2048] Declaration of Home\Model\DiseaseListModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\www\diseaseMap\Application\Home\Model\DiseaseListModel.class.php 第 7 行.
+NOTIC: [2048] Non-static method Home\Model\DiseaseListModel::get() should not be called statically, assuming $this from incompatible context E:\www\diseaseMap\Application\Home\Controller\DiseaseMapController.class.php 第 57 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\www\diseaseMap\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-05-02T15:56:21+08:00 ] 127.0.0.1 /Home/diseaseMap/searchDisease
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+NOTIC: [2048] Declaration of Home\Model\DiseaseListModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\www\diseaseMap\Application\Home\Model\DiseaseListModel.class.php 第 7 行.
+NOTIC: [2048] Non-static method Home\Model\DiseaseListModel::get() should not be called statically, assuming $this from incompatible context E:\www\diseaseMap\Application\Home\Controller\DiseaseMapController.class.php 第 57 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\www\diseaseMap\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.024002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-05-02T15:58:23+08:00 ] 127.0.0.1 /Home/diseaseMap/searchDisease
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+NOTIC: [2048] Declaration of Home\Model\DiseaseListModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\www\diseaseMap\Application\Home\Model\DiseaseListModel.class.php 第 7 行.
+NOTIC: [2048] Non-static method Home\Model\DiseaseListModel::get() should not be called statically, assuming $this from incompatible context E:\www\diseaseMap\Application\Home\Controller\DiseaseMapController.class.php 第 57 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\www\diseaseMap\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-05-02T15:58:28+08:00 ] 127.0.0.1 /Home/diseaseMap/searchDisease?cname=&dname=%E5%A4%A9%E8%8A%B1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2048] Declaration of Home\Model\DiseaseListModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\www\diseaseMap\Application\Home\Model\DiseaseListModel.class.php 第 7 行.
+NOTIC: [2048] Non-static method Home\Model\DiseaseListModel::get() should not be called statically, assuming $this from incompatible context E:\www\diseaseMap\Application\Home\Controller\DiseaseMapController.class.php 第 57 行.
+NOTIC: [8192] mysql_escape_string(): This function is deprecated; use mysql_real_escape_string() instead. E:\www\diseaseMap\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 330 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\www\diseaseMap\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+
+[ 2014-05-02T15:59:25+08:00 ] 127.0.0.1 /Home/diseaseMap/searchDisease
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2048] Declaration of Home\Model\DiseaseListModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\www\diseaseMap\Application\Home\Model\DiseaseListModel.class.php 第 7 行.
+NOTIC: [2048] Non-static method Home\Model\DiseaseListModel::get() should not be called statically, assuming $this from incompatible context E:\www\diseaseMap\Application\Home\Controller\DiseaseMapController.class.php 第 57 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\www\diseaseMap\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-05-02T16:05:40+08:00 ] 127.0.0.1 /Home/diseaseMap/searchDisease
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2048] Declaration of Home\Model\DiseaseListModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\www\diseaseMap\Application\Home\Model\DiseaseListModel.class.php 第 7 行.
+NOTIC: [2048] Non-static method Home\Model\DiseaseListModel::get() should not be called statically, assuming $this from incompatible context E:\www\diseaseMap\Application\Home\Controller\DiseaseMapController.class.php 第 57 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\www\diseaseMap\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-05-02T16:07:46+08:00 ] 127.0.0.1 /Home/diseaseMap/searchDisease
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2048] Declaration of Home\Model\DiseaseListModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\www\diseaseMap\Application\Home\Model\DiseaseListModel.class.php 第 7 行.
+NOTIC: [2048] Non-static method Home\Model\DiseaseListModel::get() should not be called statically, assuming $this from incompatible context E:\www\diseaseMap\Application\Home\Controller\DiseaseMapController.class.php 第 57 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\www\diseaseMap\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.024001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003001s ]
+
+[ 2014-05-02T16:12:41+08:00 ] 127.0.0.1 /Home/diseaseMap/searchDisease
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2048] Declaration of Home\Model\DiseaseListModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\www\diseaseMap\Application\Home\Model\DiseaseListModel.class.php 第 7 行.
+NOTIC: [2048] Non-static method Home\Model\DiseaseListModel::get() should not be called statically, assuming $this from incompatible context E:\www\diseaseMap\Application\Home\Controller\DiseaseMapController.class.php 第 57 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\www\diseaseMap\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-05-02T16:13:05+08:00 ] 127.0.0.1 /Home/diseaseMap/searchDisease
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2048] Declaration of Home\Model\DiseaseListModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\www\diseaseMap\Application\Home\Model\DiseaseListModel.class.php 第 7 行.
+NOTIC: [2048] Non-static method Home\Model\DiseaseListModel::get() should not be called statically, assuming $this from incompatible context E:\www\diseaseMap\Application\Home\Controller\DiseaseMapController.class.php 第 57 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\www\diseaseMap\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.033002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-05-02T16:14:40+08:00 ] 127.0.0.1 /Home/diseaseMap/searchDisease
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2048] Declaration of Home\Model\DiseaseListModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\www\diseaseMap\Application\Home\Model\DiseaseListModel.class.php 第 7 行.
+NOTIC: [2048] Non-static method Home\Model\DiseaseListModel::get() should not be called statically, assuming $this from incompatible context E:\www\diseaseMap\Application\Home\Controller\DiseaseMapController.class.php 第 57 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\www\diseaseMap\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-05-02T16:14:44+08:00 ] 127.0.0.1 /Home/diseaseMap/searchDisease?city=&disease=%E5%A4%A9%E8%8A%B1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2048] Declaration of Home\Model\DiseaseListModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\www\diseaseMap\Application\Home\Model\DiseaseListModel.class.php 第 7 行.
+NOTIC: [2048] Non-static method Home\Model\DiseaseListModel::get() should not be called statically, assuming $this from incompatible context E:\www\diseaseMap\Application\Home\Controller\DiseaseMapController.class.php 第 57 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\www\diseaseMap\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-05-02T16:15:23+08:00 ] 127.0.0.1 /Home/diseaseMap/searchDisease?city=&disease=%E5%A4%A9%E8%8A%B1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+NOTIC: [2048] Declaration of Home\Model\DiseaseListModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\www\diseaseMap\Application\Home\Model\DiseaseListModel.class.php 第 7 行.
+NOTIC: [2048] Non-static method Home\Model\DiseaseListModel::get() should not be called statically, assuming $this from incompatible context E:\www\diseaseMap\Application\Home\Controller\DiseaseMapController.class.php 第 57 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\www\diseaseMap\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-05-02T16:15:37+08:00 ] 127.0.0.1 /Home/diseaseMap/searchDisease?cname=%E6%AD%A6%E6%B1%89&dname=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2048] Declaration of Home\Model\DiseaseListModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\www\diseaseMap\Application\Home\Model\DiseaseListModel.class.php 第 7 行.
+NOTIC: [2048] Non-static method Home\Model\DiseaseListModel::get() should not be called statically, assuming $this from incompatible context E:\www\diseaseMap\Application\Home\Controller\DiseaseMapController.class.php 第 57 行.
+NOTIC: [8192] mysql_escape_string(): This function is deprecated; use mysql_real_escape_string() instead. E:\www\diseaseMap\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 330 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\www\diseaseMap\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+
+[ 2014-05-02T16:16:00+08:00 ] 127.0.0.1 /Home/diseaseMap/searchDisease?cname=%E6%AD%A6%E6%B1%89&dname=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+NOTIC: [2048] Declaration of Home\Model\DiseaseListModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\www\diseaseMap\Application\Home\Model\DiseaseListModel.class.php 第 7 行.
+NOTIC: [2048] Non-static method Home\Model\DiseaseListModel::get() should not be called statically, assuming $this from incompatible context E:\www\diseaseMap\Application\Home\Controller\DiseaseMapController.class.php 第 57 行.
+NOTIC: [8192] mysql_escape_string(): This function is deprecated; use mysql_real_escape_string() instead. E:\www\diseaseMap\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 330 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\www\diseaseMap\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002001s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-05-02T16:16:46+08:00 ] 127.0.0.1 /Home/diseaseMap/searchDisease?cname=%E6%AD%A6%E6%B1%89&dname=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+NOTIC: [2048] Declaration of Home\Model\DiseaseListModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\www\diseaseMap\Application\Home\Model\DiseaseListModel.class.php 第 7 行.
+NOTIC: [2048] Non-static method Home\Model\DiseaseListModel::get() should not be called statically, assuming $this from incompatible context E:\www\diseaseMap\Application\Home\Controller\DiseaseMapController.class.php 第 58 行.
+NOTIC: [8192] mysql_escape_string(): This function is deprecated; use mysql_real_escape_string() instead. E:\www\diseaseMap\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 330 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\www\diseaseMap\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004001s ]
+
+[ 2014-05-02T16:16:51+08:00 ] 127.0.0.1 /Home/diseaseMap/searchDisease
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+NOTIC: [8] Undefined variable: res E:\www\diseaseMap\Application\Home\Controller\DiseaseMapController.class.php 第 60 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-05-02T16:17:00+08:00 ] 127.0.0.1 /Home/diseaseMap/searchDisease?cname=&dname=%E5%A4%A9%E8%8A%B1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+NOTIC: [2048] Declaration of Home\Model\DiseaseListModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\www\diseaseMap\Application\Home\Model\DiseaseListModel.class.php 第 7 行.
+NOTIC: [2048] Non-static method Home\Model\DiseaseListModel::get() should not be called statically, assuming $this from incompatible context E:\www\diseaseMap\Application\Home\Controller\DiseaseMapController.class.php 第 58 行.
+NOTIC: [8192] mysql_escape_string(): This function is deprecated; use mysql_real_escape_string() instead. E:\www\diseaseMap\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 330 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\www\diseaseMap\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-05-02T16:18:35+08:00 ] 127.0.0.1 /Home/diseaseMap/searchDisease?cname=&dname=%E5%A4%A9%E8%8A%B1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2048] Declaration of Home\Model\DiseaseListModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\www\diseaseMap\Application\Home\Model\DiseaseListModel.class.php 第 7 行.
+NOTIC: [2048] Non-static method Home\Model\DiseaseListModel::get() should not be called statically, assuming $this from incompatible context E:\www\diseaseMap\Application\Home\Controller\DiseaseMapController.class.php 第 58 行.
+NOTIC: [8192] mysql_escape_string(): This function is deprecated; use mysql_real_escape_string() instead. E:\www\diseaseMap\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 330 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\www\diseaseMap\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-05-02T16:18:53+08:00 ] 127.0.0.1 /Home/diseaseMap/searchDisease?cname=&dname=%E5%A4%A9%E8%8A%B1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2048] Declaration of Home\Model\DiseaseListModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\www\diseaseMap\Application\Home\Model\DiseaseListModel.class.php 第 7 行.
+NOTIC: [2048] Non-static method Home\Model\DiseaseListModel::get() should not be called statically, assuming $this from incompatible context E:\www\diseaseMap\Application\Home\Controller\DiseaseMapController.class.php 第 58 行.
+NOTIC: [8192] mysql_escape_string(): This function is deprecated; use mysql_real_escape_string() instead. E:\www\diseaseMap\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 330 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\www\diseaseMap\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+

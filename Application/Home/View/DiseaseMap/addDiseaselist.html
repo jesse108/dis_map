@@ -1,0 +1,87 @@
+<include file="comment/header" />
+<table>
+	<tr>
+		<td>传染病名称:</td>
+		<td>传染病英文名称:</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td><input type="text" name="diseasename"></td>
+		<td><input type="text" name="ename"></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>病原体名称:</td>
+		<td>病原体英文名称:</td>
+		<td>分类学地位:</td>
+	</tr>
+	<tr>
+		<td><input type="text" name="pathogen"></td>
+		<td><input type="text" name="epathogen"></td>
+		<td><input type="text" name="group"></td>
+	</tr>
+	<tr>
+		<td>传染源:</td>
+		<td>易感人群:</td>
+		<td>传染途径:</td>
+	</tr>
+	<tr>
+		<td><input type="text" name="source"></td>
+		<td><input type="text" name="easyinfection"></td>
+		<td><input type="text" name="pathway"></td>
+	</tr>
+	<tr>
+		<td colspan="3">诊断标准:</td>
+	</tr>
+	<tr>
+		<td><textarea id="criteria"></textarea></td>
+	</tr>
+	<tr>
+		<td>预防措施</td>
+	</tr>
+	<tr>
+		<td><textarea id="precautions"></textarea></td>
+	</tr>
+	<tr>
+		<td>治疗措施</td>
+	</tr>
+	<tr>
+		<td><textarea id="treatment"></textarea></td>
+	</tr>
+</table>
+<input type="button" value="提交" id="submit">
+<input type="button" value="重置">
+<include file="comment/footer"/>
+<script type="text/javascript">
+	$("#submit").click(function(){
+		var diseasename = $("input[name=diseasename]").val();
+		var ename = $("input[name=ename]").val();
+		var pathogen = $("input[name=pathogen]").val();
+		var epathogen = $("input[name=epathogen]").val();
+		var group = $("input[name=group]").val();
+		var source = $("input[name=source]").val();
+		var easyinfection = $("input[name=easyinfection]").val();
+		var pathway = $("input[name=pathway]").val();
+		var criteria = $("#criteria").val();
+		var precautions = $("#precautions").val();
+		var treatment = $("#treatment").val();
+
+		if(!diseasename){
+			alert("请输入疾病名称");
+			return false;
+		}
+		$.post("/Home/diseaseMap/addDiseaselist",
+			{diseasename:diseasename,ename:ename,pathogen:pathogen,epathogen:epathogen,group:group,source:source,easyinfection:easyinfection,pathway:pathway,criteria:criteria,
+				precautions:precautions,treatment:treatment},
+			function(res){
+				alert(res.msg);
+				if(res.code == 1){
+					$("input[type=text]").val("");
+					$("textarea").val("");
+				}
+
+			}
+			);
+		
+	});
+</script> 

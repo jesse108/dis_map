@@ -1,0 +1,1 @@
+a:9:{i:0;s:2:"id";i:1;s:8:"cityname";i:2;s:5:"ename";i:3;s:6:"letter";i:4;s:10:"coordinate";i:5;s:5:"level";i:6;s:9:"parent_id";s:3:"_pk";s:2:"id";s:5:"_type";a:7:{s:2:"id";s:7:"int(11)";s:8:"cityname";s:11:"varchar(32)";s:5:"ename";s:11:"varchar(64)";s:6:"letter";s:7:"char(2)";s:10:"coordinate";s:11:"varchar(32)";s:5:"level";s:10:"tinyint(2)";s:9:"parent_id";s:7:"int(11)";}}
